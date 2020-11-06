@@ -1,0 +1,80 @@
+nav {
+  width: 100%;
+
+
+
+  background-color: #232323;
+  opacity:.7;
+  padding-top: 10px;
+}
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  background: url('images/zblep4 copie.png')  no-repeat top center;
+padding-top: 40px;
+margin: 0em;}
+nav a {
+  display: block;
+  color:white;
+
+
+
+
+}
+
+
+
+
+
+
+
+body {background-color: #232323;
+color:white;}
+.hero {  background: url('images/image18.jpg') no-repeat top center ;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+
+}
+#source {color:white;
+  text-align: center;
+  background-color:#fa9614;
+opacity: 0.70;
+margin-top: 7em;
+padding: 10px}
+#ww {color:white;}
+h1 {
+  padding: 2em;
+  padding-top: 2.7em;
+  font-size: 8.5em;
+  text-align: center;
+  justify-content:left;
+  color: white;
+  opacity: 0.70
+
+}
+.draw { position:relative;
+  left:90vh;}
+
+  h2 { text-align: center;
+  opacity: 0.70;
+  color: #fa9614;
+   font-size: 4em;
+ margin-left: 110px;
+margin-right: 110px;
+padding-bottom: 30px;
+border-bottom: 2px dotted #fa9614;}
+   p {
+   justify-content:left;
+ margin-left: 300px;
+margin-right: 300px;}
+h3 { text-align: center;}
+h4 { text-align:center;
+opacity:0.70;
+margin-left: 300px;
+margin-right: 300px;
+border-left: 2px solid #fff;
+    border-right: 2px solid #fff;}
+
+#section-03 { background: url('images/zblep3 copie.png')  no-repeat top center ;
+justify-content: center; width:100%;}
